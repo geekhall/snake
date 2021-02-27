@@ -1,2 +1,6 @@
 # snake
-Snake game
+
+A very simple snake game using java-swing.
+
+
+
